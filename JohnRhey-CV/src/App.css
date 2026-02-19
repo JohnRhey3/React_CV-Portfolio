@@ -55,6 +55,16 @@ html, body {
   gap: 40px;
 }
 
+.NavigationName {
+  text-decoration: none;
+  color: #182153;
+  font-weight: 600;
+}
+
+.NavigationName:hover {
+  color: #2563eb;
+}
+
 .nav-links a {
   text-decoration: none;
   color: #182153;
